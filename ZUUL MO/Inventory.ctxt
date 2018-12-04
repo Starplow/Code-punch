@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=playerInventory
+comment0.target=Inventory(boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Inventory\r\n\ \r\n\ defines\ the\ capacity\ of\ the\ inventory\ of\ the\ player\r\n
+comment1.params=i
+comment1.target=boolean\ add(Item)
+comment1.text=\r\n\ add\ item\ to\ inventory\ (ArrayList)\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
